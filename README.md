@@ -2,10 +2,10 @@
 
 ## Terminology
 
-- Dragon
+- **Dragon**
   - DPI (Dragon Professional Individual) often mitakenly set equal with DNS
-- Dragonfly
-- Natlink
+- **Dragonfly**
+- **Natlink**
 - Unimacro
 - Vocola
 
