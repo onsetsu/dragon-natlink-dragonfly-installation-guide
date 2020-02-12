@@ -20,5 +20,5 @@
 5. Click **(re)Register NatLink**
 6. Close GUI and restart Dragon: Another window for natlink should appear along Dragon if everything worked out fine.
 7. [User Directory] Open GUI again, configure a User Directory (for custom commands)
-8. [First Custom Command] put our [sample file](./_natlink_sample.py) into the directory, disable and reenable Dragons microphone, this will make Natlink reimport all files in the User Directory. ****
-9. Say *Demo Sample One* to trigger the custom command: It should print
+8. [First Custom Command] put our [sample file](./_natlink_sample.py) into the directory, disable and re-enable Dragons microphone, this will make Natlink reimport all files in the User Directory. This should print **'Demo command loaded, say "demo sample one"!'** in the Natlink window.
+9. Say *Demo Sample One* to trigger the custom command: It should print **Detected "demo sample one"**.
