@@ -11,7 +11,7 @@
 
 ## Step-by-step Guide
 
-0. Install python 2.7 (can be along python 3.x)
+0. Install python 2.7, 32bit version(can be along python 3.x)
 1. Install Dragon
   - 1.1 Upgrade to 15.3
 2. Install Natlink (Vocola and Unimacro are just byproducts of Natlink) according to [this guide](https://qh.antenna.nl/unimacro/installation/installation.html)
