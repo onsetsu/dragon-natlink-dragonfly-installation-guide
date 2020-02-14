@@ -24,3 +24,5 @@
 ![](./image.png)
 9. Say *Demo Sample One* to trigger the custom command: It should print **Detected "demo sample one"**.
 ![](./1st_custom_command.png)
+10. pip install dragonfly2
+
